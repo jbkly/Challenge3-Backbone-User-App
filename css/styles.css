@@ -1,0 +1,74 @@
+.wrapper {
+	width: 90%;
+	margin: 3rem 3rem;
+	min-width: 410px;
+	max-width: 650px;
+}
+body, a, div, p {
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+header {
+	margin: 36px 8px;
+}
+a {
+	text-decoration: none;
+	color: #fff;
+	padding: 0.3em 0.5em;
+	background: #5ad07d;
+	border-radius: 0.25em;
+	margin: 0.3em;
+}
+.maintitle {
+	background: none;
+	color: #000;
+	padding: inherit;
+	margin: inherit;
+}
+.bigbutton {
+	background: #3F68AE;
+	margin: 0.65em;
+}
+.heading {
+	margin: 0.65em;
+}
+.user-name {
+	font-weight: bold;
+	font-size: 1.2em;
+}
+ul {
+	list-style: none;
+	padding-left: 0;
+	margin-top: 2.3em;
+}
+.user-entry,
+.user-form {
+	border: 1px #000 dotted;
+	border-radius: 0.25em;
+	margin: 1em;
+	padding: 0 1em;
+}
+.user-form {
+	padding: 1.5em;
+}
+input {
+	margin: 0.5em;
+}
+button[type=submit] {
+	text-decoration: none;
+	color: #fff;
+	font-size: 1em;
+	padding: 0.5em 0.5em;
+	background: #3F68AE;
+	border-radius: 0.25em;
+	margin: 10px;
+	border: none;
+	cursor: pointer;
+	width: auto;
+	line-height: 20px;
+}
+.cancelbtn {
+	margin: 9px 5px;
+	padding: 0.5em 0.5em;
+	display: inline-block;
+	line-height: 20px;
+}
