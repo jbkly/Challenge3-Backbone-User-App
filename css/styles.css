@@ -1,8 +1,8 @@
 .wrapper {
 	width: 90%;
 	margin: 3rem 3rem;
-	min-width: 410px;
 	max-width: 650px;
+	min-width: 410px;
 }
 body, a, div, p {
 	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
